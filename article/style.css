@@ -1,0 +1,42 @@
+.wow{
+background-color: lightgray;
+
+height: 9000px;
+position: fixed;
+text-justify: center;
+width: 20%;
+border: 1px solid black;
+float: left;
+max-width: 20%;
+
+}
+
+
+#navbar{
+  position:relative;
+  
+  position: fixed;
+
+max-width: 20%;
+
+  }
+#main-doc{
+    display: block;
+    margin-left: 350px;
+    position: absolute;
+  }
+  #navbar header{
+    font-size: 30px;
+    margin-left: 20px;
+    zoom :1;
+
+  }
+  #navbar li {
+
+    color: gray;
+    max-width: 20%;
+    zoom: 1;
+  }
+a:clicked {
+  color: red;
+}
